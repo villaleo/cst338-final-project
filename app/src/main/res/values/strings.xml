@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="create_account">Create account</string>
+    <string name="place_hold">Place hold</string>
+    <string name="manage_system">Manage system</string>
+    <string name="enter_a_username">Enter a username:</string>
+    <string name="enter_a_password">Enter a password:</string>
+    <string name="example_user_name">JohnAppleseed123</string>
+    <string name="example_password">secretPassword34</string>
+    <string name="register_label">Register</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_label">login</string>
+    <string name="new_book_label">Add new book</string>
+    <string name="back_home_label">Back home</string>
+    <string name="enter_your_username_label">Enter your username</string>
+    <string name="enter_your_password_label">Enter your password</string>
+    <string name="customer_name_label">Customer name:</string>
+    <string name="book_title_label">Book title:</string>
+    <string name="finish_label">Finish</string>
+    <string name="new_book_title_label">Enter the book title:</string>
+    <string name="new_book_author_label">Enter book author:</string>
+    <string name="enter_genre_label">Enter genre:</string>
+    <string name="add_new_book_label">Add new book</string>
+</resources>
